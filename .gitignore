@@ -1,3 +1,5 @@
+build/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +28,7 @@
 *.exe
 *.out
 *.app
+unittest
+
+# Coverage output
+*.gcno
